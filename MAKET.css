@@ -1,0 +1,211 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.img-hat {
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 145px;
+    width: 212px;
+    height: 45px;
+}
+
+.ul li {
+    display: inline-block;
+    text-align: left;
+}
+
+.ul li a {
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 25px;
+    line-height: 22px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 25px;
+    padding-top: 27px;
+}
+
+.promo {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+}
+
+.promo1 {
+    color: white;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+}
+
+.div-charity {
+    background-image: url(./Images/image.jpg);
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.petux {
+    font-size: 0;
+}
+
+.img-logo {
+    background-color: #f1efec;
+    width: 343px;
+    height: 61px;
+    display: inline-block;
+    background-image: url(./Images/logo.png);
+    box-sizing: content-box;
+    padding-top: 110px;
+    padding-bottom: 145px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -5px;
+}
+
+.d {
+    background-image: url(./Images/image-1.jpg);
+    display: inline-block;
+    width: 341px;
+    height: 316px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 0px;
+}
+
+.donate-now {
+    display: inline-block;
+    background-color: #9b242d;
+    width: 341px;
+    height: 316px;
+    vertical-align: top;
+    box-sizing: border-box;
+    margin-left: -1px;
+}
+
+.donate {
+    color: white;
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+
+.donate1 {
+    color: white;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.sign-up {
+    background-color: #46a651;
+    box-sizing: border-box;
+    padding-bottom: 60px;
+    width: 683px;
+    text-align: right;
+    padding-top: 40px;
+    display: inline-block;
+}
+
+.sign {
+    font-size: 40px;
+    color: white;
+    text-align: right;
+    margin-right: 60px;
+}
+
+.up {
+    font-size: 16px;
+    line-height: 22px;
+    color: white;
+    text-align: right;
+    margin-right: 60px;
+    margin-bottom: 30px;
+}
+
+.subscribe {
+    color: white;
+    background-color: #348e3e;
+    font-size: 20px;
+    margin-right: 60px;
+    text-decoration: none;
+    padding: 12px 20px 12px 20px;
+    font-size: 16px;
+    line-height: 22px;
+
+}
+
+.leaf {
+    display: inline-block;
+    background-image: url(./Images/image-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 341px;
+    height: 296px;
+    vertical-align: top;
+}
+
+.grass {
+    background-image: url(./Images/image-3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 683px;
+    height: 296px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -1px;
+}
+
+.facebook {
+    background-image: url(./Images/facebook.png);
+    background-repeat: no-repeat;
+    width: 341px;
+    height: 296px;
+    background-color: #3b5997;
+    background-position: 50% 40%;
+    background-size: 10%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -1px;
+}
+
+.like-now {
+    font-size: 16px;
+    line-height: 22px;
+    color: white;
+    text-align: center;
+    margin-top: 55%;
+}
+
+.futercolor {
+    background-color: #373838;
+    vertical-align: top;
+}
+
+.futer li {
+    display: inline-block;
+    box-sizing: border-box;
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+
+.futer li a {
+    color: #939393;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 22px;
+    margin-left: 60px;
+}
